@@ -1,0 +1,8 @@
+*/*
+har.json
+*.txt
+*.zip
+!requirements.txt
+venv
+env
+.vscode
