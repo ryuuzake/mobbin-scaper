@@ -13,11 +13,15 @@ Tutorial
 
 4. Create har.json file in current directory
 5. Paste the har content to the file
-6. Run this command  
+6. Install all dependencies
+  ```bash
+  pip install -r requirements.txt
+  ```
+7. Run this command  
   ```bash
   python main.py
   ```
-7. The file is ready to use in the `downloaded_img` folder
+8. The file is ready to use in the `downloaded_img` folder
 
 ---
 
